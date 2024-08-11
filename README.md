@@ -7,14 +7,13 @@
 - **Current Role:** Software Engineering Intern
   - Automating demo setup processes for potential clients.
   - Implementing quality data population in MySQL databases.
-- **Previous Experience:**
   - Developed and deployed 10+ front-end features.
   - Resolved 5 critical bugs in production.
   - Created a PowerShell script to automate demo database population, significantly reducing manual effort.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C#, TypeScript, SQL, Python, React
+- **Languages:** Python, C#, C++, C, TypeScript, Javascript, HTML/CSS, SQL, Java
 - **Databases:** MySQL, MongoDB
 - **DevOps:** Azure DevOps, Docker
 - **Cloud:** Amazon S3
