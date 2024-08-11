@@ -25,7 +25,7 @@
 - **NHL Game Predictor:** A machine learning project predicting outcomes of NHL games based on historical data.
 - **Full Stack Projects:** Exploring different stacks by building applications like e-commerce platforms and fitness trackers.
 
-## 🛠️ Projects
+## 🛠️ Projects (Work in Progress)
 
 ### 1. [Moundball iOS App](https://github.com/ColinHCook/moundball-ios)
 An iOS app that brings the classic Moundball game to life. Track scores, keep player profiles, and enjoy mythical rewards after each inning.
