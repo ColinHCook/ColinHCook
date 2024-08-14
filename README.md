@@ -9,7 +9,6 @@
   - Implementing quality data population in MySQL databases.
   - Developed and deployed 10+ front-end features.
   - Resolved 5 critical bugs in production.
-  - Created a PowerShell script to automate demo database population, significantly reducing manual effort.
 
 ## 🔧 Technologies & Tools
 
@@ -25,15 +24,15 @@
 - **NHL Game Predictor:** A machine learning project predicting outcomes of NHL games based on historical data.
 - **Full Stack Projects:** Exploring different stacks by building applications like e-commerce platforms and fitness trackers.
 
-## 🛠️ Projects (Work in Progress)
+## 🛠️ Projects (Currently WIP)
 
 ### 1. [Moundball iOS App](https://github.com/ColinHCook/moundball-ios)
 An iOS app that brings the classic Moundball game to life. Track scores, keep player profiles, and enjoy mythical rewards after each inning.
 
-### 2. [NHL Game Predictor](https://github.com/ColinHCook/nhl-game-predictor)
+### 2. [NHL Game Predictor](https://github.com/ColinHCook/nhl-predictor)
 Using machine learning to predict NHL game outcomes by scraping and analyzing past season data.
 
-### 3. [E-Commerce Platform](https://github.com/ColinHCook/ecommerce-platform)
+### 3. [E-Commerce Platform](https://github.com/ColinHCook/ECommerceWebsite)
 A full-stack e-commerce application built with modern technologies. Fully deployed for learning and experimentation.
 
 ## 🎯 Goals
