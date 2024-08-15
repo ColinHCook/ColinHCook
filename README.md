@@ -10,6 +10,9 @@
   - Developed and deployed 10+ front-end features.
   - Resolved 5 critical bugs in production.
 
+- **Past Role(s):** 
+  - Freelance Web Developer for SwiftWeb Synergy
+  
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, C#, C++, C, TypeScript, Javascript, HTML/CSS, SQL, Java
