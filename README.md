@@ -4,14 +4,13 @@
 
 ## 💼 Professional Background
 
-- **Current Role:** Software Engineering Intern
-  - Automating demo setup processes for potential clients.
-  - Implementing quality data population in MySQL databases.
-  - Developed and deployed 10+ front-end features.
-  - Resolved 5 critical bugs in production.
-
+- **Current Role:** Senior at Penn State studying computer Science
+  - Will be very busy with classes this year
+  - Will try to keep this page active and continue pursuing projects when I can
+    
 - **Past Role(s):** 
   - Freelance Web Developer for SwiftWeb Synergy
+  - Full Stack Software Engineering Intern
   
 ## 🔧 Technologies & Tools
 
