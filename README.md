@@ -24,8 +24,6 @@
 ## 🌱 What I'm Working On
 
 - **Moundball iOS App:** Simulating and tracking Moundball games with fun and engaging rewards. This app is designed to be non-monetary to comply with iOS Store regulations.
-- **NHL Game Predictor:** A machine learning project predicting outcomes of NHL games based on historical data.
-- **Full Stack Projects:** Exploring different stacks by building applications like e-commerce platforms and fitness trackers.
 
 
 ## 🛠️ Project Showcase
@@ -36,7 +34,7 @@ A full-stack e-commerce app using React.js, Node.js/Express, and PostgreSQL. Fea
 ### 2. [NHL Game Predictor](https://github.com/ColinHCook/nhl-predictor)
 Machine learning project predicting NHL game outcomes using 10 seasons of historical data. Built with Python, scikit-learn, and a React frontend.
 
-### 3. [Fitness Tracker](https://github.com/ColinHCook/fitness-tracker)
+### 3. [Fitness Tracker](https://github.com/ColinHCook/fitness-app-clone)
 A fitness app for logging workouts and tracking nutrition. Full-stack project with a Python backend and React frontend.
 
 
