@@ -20,22 +20,25 @@
 - **Cloud:** Amazon S3
 - **Tools:** Visual Studio, VS Code, PowerShell
 
+
 ## 🌱 What I'm Working On
 
 - **Moundball iOS App:** Simulating and tracking Moundball games with fun and engaging rewards. This app is designed to be non-monetary to comply with iOS Store regulations.
 - **NHL Game Predictor:** A machine learning project predicting outcomes of NHL games based on historical data.
 - **Full Stack Projects:** Exploring different stacks by building applications like e-commerce platforms and fitness trackers.
 
-## 🛠️ Projects (Currently WIP)
 
-### 1. [Moundball iOS App](https://github.com/ColinHCook/moundball-ios)
-An iOS app that brings the classic Moundball game to life. Track scores, keep player profiles, and enjoy mythical rewards after each inning.
+## 🛠️ Project Showcase
+
+### 1. [E-Commerce Platform](https://github.com/ColinHCook/ECommerceWebsite)
+A full-stack e-commerce app using React.js, Node.js/Express, and PostgreSQL. Features secure transactions, real-time updates, and a responsive design.
 
 ### 2. [NHL Game Predictor](https://github.com/ColinHCook/nhl-predictor)
-Using machine learning to predict NHL game outcomes by scraping and analyzing past season data.
+Machine learning project predicting NHL game outcomes using 10 seasons of historical data. Built with Python, scikit-learn, and a React frontend.
 
-### 3. [E-Commerce Platform](https://github.com/ColinHCook/ECommerceWebsite)
-A full-stack e-commerce application built with modern technologies. Fully deployed for learning and experimentation.
+### 3. [Fitness Tracker](https://github.com/ColinHCook/fitness-tracker)
+A fitness app for logging workouts and tracking nutrition. Full-stack project with a Python backend and React frontend.
+
 
 ## 🎯 Goals
 
