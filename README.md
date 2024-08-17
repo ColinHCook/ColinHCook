@@ -21,6 +21,8 @@
 ## 🌱 What I'm Working On
 
 - **Moundball iOS App:** Simulating and tracking Moundball games with fun and engaging rewards. This app is designed to be non-monetary to comply with iOS Store regulations.
+  
+- **Portfolio Website:** Creating a portfolio website to showcase projects and skills.
 
 
 ## 🛠️ Project Showcase
