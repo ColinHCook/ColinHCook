@@ -14,12 +14,9 @@
   
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, C#, C++, C, TypeScript, Javascript, HTML/CSS, SQL, Java
-- **Databases:** MySQL, MongoDB
-- **DevOps:** Azure DevOps, Docker
-- **Cloud:** Amazon S3
-- **Tools:** Visual Studio, VS Code, PowerShell
-
+- **Languages:** Python, C#, C, TypeScript, Javascript, HTML/CSS, SQL, Java
+- **Tools:** Visual Studio, VS Code, PowerShell. Amazon S3, Postman, Azure DevOps, Git/GitHub
+  
 
 ## 🌱 What I'm Working On
 
