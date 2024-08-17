@@ -8,9 +8,10 @@
   - Will be very busy with classes this year, taking 18 credits Fall 2024!
   - Will try to keep this page active and continue pursuing projects when I can!
     
-- **Past Role(s):** 
-  - Freelance Web Developer for SwiftWeb Synergy
+- **Past Roles:**
+
   - Full Stack Software Engineering Intern at ReadySet Surgical
+  - Freelance Web Developer for SwiftWeb Synergy
   
 ## 🔧 Technologies & Tools
 
