@@ -5,12 +5,12 @@
 ## 💼 Professional Background
 
 - **Current Role:** Senior at Penn State studying computer Science
-  - Will be very busy with classes this year
-  - Will try to keep this page active and continue pursuing projects when I can
+  - Will be very busy with classes this year, taking 18 credits Fall 2024!
+  - Will try to keep this page active and continue pursuing projects when I can!
     
 - **Past Role(s):** 
   - Freelance Web Developer for SwiftWeb Synergy
-  - Full Stack Software Engineering Intern
+  - Full Stack Software Engineering Intern at ReadySet Surgical
   
 ## 🔧 Technologies & Tools
 
