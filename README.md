@@ -46,7 +46,6 @@ A fitness app for logging workouts and tracking nutrition. Full-stack project wi
 
 ## 📫 Get in Touch
 
-- **GitHub:** [github.com/ColinHCook](https://github.com/ColinHCook)
 - **LinkedIn:** [linkedin.com/colin-harris-cook](https://www.linkedin.com/in/colin-harris-cook/) 
 
 Feel free to explore my repositories, and don’t hesitate to reach out for collaboration or discussion on interesting projects!
