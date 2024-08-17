@@ -4,7 +4,7 @@
 
 ## 💼 Professional Background
 
-- **Current Role:** Senior at Penn State studying computer Science
+- **Current Role:** Senior at Penn State studying Computer Science
   - Will be very busy with classes this year, taking 18 credits Fall 2024!
   - Will try to keep this page active and continue pursuing projects when I can!
     
