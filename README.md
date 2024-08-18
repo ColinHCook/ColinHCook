@@ -29,10 +29,10 @@
 ## 🛠️ Project Showcase
 
 ### 1. [E-Commerce Platform](https://github.com/ColinHCook/ECommerceWebsite)
-A full-stack e-commerce app using React.js, Node.js/Express, and PostgreSQL. Features secure transactions, real-time updates, and a responsive design.
+A full-stack e-commerce app using React.js, Node.js/Express, and PostgreSQL. Features secure transactions, real-time updates, and a responsive design. (Currently working on refactoring the code)
 
 ### 2. [NHL Game Predictor](https://github.com/ColinHCook/nhl-predictor)
-Machine learning project predicting NHL game outcomes using 10 seasons of historical data. Built with Python, scikit-learn, and a React frontend.
+Machine learning project predicting NHL game outcomes using 10 seasons of historical data. Built with Python, scikit-learn, and a React frontend. I plan to deploy this in the near future.
 
 ### 3. [Fitness Tracker](https://github.com/ColinHCook/fitness-app-clone)
 A fitness app for logging workouts and tracking nutrition. Full-stack project with a Python backend and React frontend.
