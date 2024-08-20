@@ -10,8 +10,8 @@
     
 - **Past Roles:**
 
-  - Full Stack Software Engineering Intern at ReadySet Surgical
-  - Freelance Web Developer for SwiftWeb Synergy
+  - Full Stack Software Engineering Intern at ReadySet Surgical (Summer 2023 and 2024)
+  - Freelance Web Developer for SwiftWeb Synergy (September 2023 - May 2024)
   
 ## 🔧 Technologies & Tools
 
