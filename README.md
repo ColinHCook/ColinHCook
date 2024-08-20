@@ -15,7 +15,7 @@
   
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, C#, C, TypeScript, Javascript, HTML/CSS, SQL, Java
+- **Languages:** Python, C#, C, TypeScript, Javascript, HTML/CSS, SQL (MySQL/PostgreSQL), Java
 - **Tools:** Visual Studio, VS Code, PowerShell. Amazon S3, Postman, Azure DevOps, Git/GitHub
   
 
