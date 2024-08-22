@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./headerfixed.png)
 
 # Welcome to my GitHub page!
 
