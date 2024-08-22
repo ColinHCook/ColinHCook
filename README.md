@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # Welcome to my GitHub page!
 
 👋 Hi there! I'm Colin Cook, a passionate software engineer with a focus on building robust, scalable, and efficient applications. I have a strong background in full-stack development, with experience in both front-end and back-end technologies. I’m particularly interested in startup ecosystems, machine learning, and innovative applications that solve real-world problems.
