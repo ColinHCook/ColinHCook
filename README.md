@@ -15,7 +15,8 @@
   
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, C#, C, TypeScript, Javascript, HTML/CSS, SQL (MySQL/PostgreSQL), Java
+- **Languages:** Python, C#, C, TypeScript, Javascript, HTML/CSS, SQL (MySQL/PostgreSQL/SQLite), Java
+- **Frameworks:** React, Next.js, Node/Express.js, Tailwind CSS, .NET, Flask, Django
 - **Tools:** Visual Studio, VS Code, PowerShell. Amazon S3, Postman, Azure DevOps, Git/GitHub
   
 
